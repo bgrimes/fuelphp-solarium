@@ -10,7 +10,7 @@
  */
 
 
-require('solarium/library/Solarium/Autoloader.php');
+require('solarium/Autoloader.php');
 Solarium_Autoloader::register();
 
 /* End of file bootstrap.php */
